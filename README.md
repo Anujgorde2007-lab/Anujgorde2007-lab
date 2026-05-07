@@ -1,3 +1,4 @@
+![Banner](Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 Hi 👋 I'm Anuj Gorde
 
 🎓 Aspiring AI & Machine Learning Student

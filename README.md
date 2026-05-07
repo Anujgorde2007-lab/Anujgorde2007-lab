@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - Python
 - Machine Learning
@@ -26,14 +26,6 @@
 - Basic Data Analysis
 - Automation Systems
 - Smart AI Tools
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujgorde2007-lab&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujgorde2007-lab&layout=compact&theme=tokyonight)
 
 ---
 
@@ -48,10 +40,25 @@
 
 ## 🎯 Goals
 
-- Build impactful AI systems
-- Create lightweight automation tools
+- Build impactful AI-based solutions
+- Create lightweight automation systems
 - Contribute to open-source projects
-- Study advanced AI technologies
+- Develop practical real-world AI applications
+
+---
+
+## 🚀 Vision
+
+I aim to build intelligent and lightweight AI systems that solve practical real-world problems through automation, smart organization, and accessible technology.
+
+---
+
+## ⚡ What I'm Working On
+
+- Improving AI-based automation projects
+- Learning practical Machine Learning concepts
+- Building real-world Python applications
+- Exploring smart organization systems using AI
 
 ---
 
@@ -61,4 +68,4 @@
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Exploring AI one project at a time

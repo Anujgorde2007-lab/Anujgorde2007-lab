@@ -1,11 +1,10 @@
-
 ![Banner](./Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 # Hi 👋 I'm Anuj Gorde
 
-🎓 Aspiring AI & Machine Learning Student  
+🚀 Aspiring AI & Machine Learning Student  
 💻 Passionate about Python, AI, and Automation  
-🚀 Building real-world AI projects and improving practical skills  
+🧠 Building real-world AI projects and improving practical skills  
 📚 Interested in Artificial Intelligence, Machine Learning, and Smart Systems  
 
 ---
@@ -25,28 +24,16 @@
 - Git & GitHub
 - VS Code
 - Basic Data Analysis
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
-
----
-
-## 📌 Interests
-
-- Artificial Intelligence
-- Machine Learning
 - Automation Systems
 - Smart AI Tools
-- Python Development
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anujgorde2007-lab&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujgorde2007-lab&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujgorde2007-lab&layout=compact&theme=tokyonight" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujgorde2007-lab&layout=compact&theme=tokyonight)
 
 ---
 
@@ -59,6 +46,19 @@
 
 ---
 
+## 🎯 Goals
+
+- Build impactful AI systems
+- Create lightweight automation tools
+- Contribute to open-source projects
+- Study advanced AI technologies
+
+---
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Anujgorde2007-lab
+
+---
+
+⭐ Thanks for visiting my profile!

@@ -1,71 +1,81 @@
-![Banner](./Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+# 👋 Hi, I'm Anuj Gorde
 
-# Hi 👋 I'm Anuj Gorde
+<div align="center">
 
-🚀 Aspiring AI & Machine Learning Student  
-💻 Passionate about Python, AI, and Automation  
-🧠 Building real-world AI projects and improving practical skills  
-📚 Interested in Artificial Intelligence, Machine Learning, and Smart Systems  
+## 🚀 AI & Machine Learning Enthusiast  
+### Python Developer • AI Automation Builder • MEXT 2027 Aspirant
+
+</div>
 
 ---
 
-## 🔥 Current Projects
+## 🧠 About Me
 
-- Smart File Organizer AI
-- Machine Learning Based Automation Tools
-- Python AI Utilities
+- 🎓 Aspiring AI & Machine Learning student
+- 🤖 Building practical AI automation projects using Python
+- 💡 Interested in intelligent systems, smart assistants, and automation
+- 📚 Currently improving skills in AI, Machine Learning, and Software Development
+- 🇯🇵 Preparing for MEXT 2027 scholarship with focus on AI research
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Smart Notes AI
+🔹 AI-inspired smart note organization system  
+🔹 Automatic note categorization and management  
+🔹 Built using Python and rule-based AI concepts  
+
+🔗 Repository:  
+https://github.com/Anujgorde2007-lab/smart-notes-ai
+
+---
+
+### 🤖 AI Automation System
+🔹 Intelligent automation workflow project  
+🔹 Smart task execution and automation concepts  
+🔹 Beginner-friendly AI automation architecture  
+
+🔗 Repository:  
+https://github.com/Anujgorde2007-lab/AI-Automation-System
 
 ---
 
 ## 🛠️ Tech Stack
 
 - Python
-- Machine Learning
+- Machine Learning Basics
+- AI Automation
 - Git & GitHub
 - VS Code
-- Basic Data Analysis
-- Automation Systems
-- Smart AI Tools
 
 ---
 
-## 🌱 Currently Learning
+## 📈 Current Goals
 
-- Machine Learning Fundamentals
-- AI Automation Workflows
-- Python Project Development
-- GitHub Collaboration
-
----
-
-## 🎯 Goals
-
-- Build impactful AI-based solutions
-- Create lightweight automation systems
-- Contribute to open-source projects
-- Develop practical real-world AI applications
+- Build impactful AI projects
+- Learn advanced Machine Learning
+- Create real-world automation tools
+- Contribute to AI-focused development
+- Study AI research in Japan
 
 ---
 
-## 🚀 Vision
+## 🌟 Vision
 
-I aim to build intelligent and lightweight AI systems that solve practical real-world problems through automation, smart organization, and accessible technology.
-
----
-
-## ⚡ What I'm Working On
-
-- Improving AI-based automation projects
-- Learning practical Machine Learning concepts
-- Building real-world Python applications
-- Exploring smart organization systems using AI
+I aim to create lightweight and practical AI systems that help students, developers, and everyday users improve productivity through intelligent automation.
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Anujgorde2007-lab
+- GitHub:  
+  https://github.com/Anujgorde2007-lab
 
 ---
 
-⭐ Exploring AI one project at a time
+<div align="center">
+
+### ⭐ “Building practical AI systems step by step.”
+
+</div>
